@@ -4,10 +4,10 @@
     "url": "https://crudoimage.business/login",
     "icon": "https://icons.duckduckgo.com/ip3/crudoimage.business.ico",
     "slug": "cdm-business-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1535,
@@ -16,6 +16,7 @@
     "timeMonth": 1560,
     "timeYear": 1535,
     "dailyMinutesDown": {
+      "2024-09-23": 2,
       "2024-08-22": 32
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://crudoimage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/crudoimage.com.ico",
     "slug": "cdm-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 2074,
     "timeYear": 2086,
     "dailyMinutesDown": {
+      "2024-09-23": 0,
       "2024-08-22": 32
     }
   }
